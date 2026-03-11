@@ -63,12 +63,11 @@ Whether you're tracking daily coffee runs or monitoring large business investmen
 
 ### Giao diện Bảng Điều khiển (Dashboard)
 Biểu diễn thông minh trực quan với thẻ phân loại, đồ thị sóng và tháp phân bổ dòng tiền:
-![Dashboard Preview](./frontend/public/assets/dashboard_preview.png)
+<img width="1901" height="936" alt="Home" src="https://github.com/user-attachments/assets/e524d4d9-6bf2-4d3a-9626-38bd5bd1586f" />
 
 ### Giao diện Đăng Nhập/Đăng ký (Authentication)
 Xây dựng theo cấu trúc phân tách (Split-screen), mang lại cảm giác bảo mật và chuyên nghiệp:
-![Login Preview](./frontend/public/assets/login_preview.png)
-
+<img width="1902" height="938" alt="Login" src="https://github.com/user-attachments/assets/eaf59b2f-0f5c-4453-b3ed-e968014ffa94" />
 ---
 
 ## 🚀 Getting Started

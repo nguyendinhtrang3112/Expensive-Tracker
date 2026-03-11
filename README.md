@@ -59,11 +59,15 @@ Whether you're tracking daily coffee runs or monitoring large business investmen
 
 ---
 
-## 📸 Project Preview
+## 📸 Hình ảnh Dự án
 
-*(Add your screenshots here!)*
+### Giao diện Bảng Điều khiển (Dashboard)
+Biểu diễn thông minh trực quan với thẻ phân loại, đồ thị sóng và tháp phân bổ dòng tiền:
+![Dashboard Preview](./frontend/public/assets/dashboard_preview.png)
 
-> To add an image: Drag and drop a screenshot of your Dashboard, Login Screen, and Income Page here to instantly embed them onto GitHub. Or use `![Dashboard Preview](./assets/dashboard.png)`
+### Giao diện Đăng Nhập/Đăng ký (Authentication)
+Xây dựng theo cấu trúc phân tách (Split-screen), mang lại cảm giác bảo mật và chuyên nghiệp:
+![Login Preview](./frontend/public/assets/login_preview.png)
 
 ---
 
@@ -81,7 +85,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/nguyendinhtrang3112/expense-tracker.git
    cd expense-tracker
    ```
 
@@ -171,4 +175,4 @@ expense-tracker/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Built with ❤️ by [Your Name](https://github.com/yourusername)*
+*Built with ❤️ by [Nguyễn Đình Tráng](https://github.com/nguyendinhtrang3112)*
